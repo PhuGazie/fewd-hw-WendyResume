@@ -1,0 +1,114 @@
+body {
+  background-color: #444444;
+}
+
+.container {
+  border: #cccccc 3px solid;
+  width: 600px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  color: #FFFFFF;
+  font-style: italic;
+  text-align: center;
+}
+
+.white-text {
+  color: #FFFFFF;
+}
+
+.gray-text {
+  color: #888888;
+  font-weight: bold;
+}
+
+.main-nav {
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 0px;
+  }
+
+.main-nav li {
+  display: inline;
+  list-style: none;
+  border-right: #CCCCCC 1px solid;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.main-nav li:last-child {
+  border: none;
+}
+
+.main-nav a {
+  color: #00D59D;
+  font-weight: bold;
+}
+
+.divider {
+  width: 100%;
+  border-top: #cccccc 1px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.sanserif {
+  font-family: sans-serif;
+}
+
+.headshot {
+  border: #cccccc 1px solid;
+  margin: 10px;
+  margin-top: -1px;
+  padding: 5px;
+  float: right;
+}
+
+.subhead {
+  font-family: sans-serif;
+  font-variant: small-caps;
+  color: #888888;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.work-title {
+  font-family: sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20;
+}
+
+.company-name {
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.date-style {
+  font-family: sans-serif;
+  color: #888888;
+  font-weight: bold;
+  font-size: 14px;
+}
+.list-style {
+  color: #ffffff;
+  }
+
+.list-style li {
+    list-style:square;
+    line-height: 20px;
+  }
+
+.resume-description {
+  color: #888888;
+  margin: 0px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
